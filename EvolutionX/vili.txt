@@ -1,0 +1,74 @@
+Build type: Userdebug
+Device: Xiaomi Mi 11T Pro (vili)
+maintainer: swiitchOFF
+
+Changelog:28/02/'24
+- Synced to latest EvolutionX source
+- Update adreno blobs from AOSPA
+- Shifted to New upstream kernel 5.4.268
+- lg tv cast And OTG dedection issues already fixed last year on my all of builds
+- Various source side improvements and fixes
+
+Changelog:08/02/'24
+- Synced to latest EvolutionX source
+- Added Leica camera Beta 7.0 hotfix
+- Some misc changes here and there
+- I avoid cringe changelog so not worthy to mention
+
+Clean flash must recommend
+ 
+Changelog:14/01/'24
+- Synced to latest EvolutionX source
+- Cleanup & Re-Based & Dropped Some stuffs 
+- VILI Vendor Based on VILI EEA V.14.0.14.0.TKDEUXM
+- COMMON Vendor Based on STAR CHINA V14.0.23.9.18.DEV
+- Shifted to New upstream kernel by @GiovanniRN5
+
+Changelog:12/01/'24
+- Synced to latest EvolutionX source 
+- Added Motorola Dolby with some blobs taken from Latest VILI EEA V.14.0.14.0.TKDEUXM
+- Fixed system crash on casting to device with apps like Spotify
+- Shifted to lineage kernel initial adaption done by @TheStrechh
+- Some misc changes here and there
+
+Changelog:30/12/'23
+- Sync with latest source 
+- Fixed noise from speaker during locked 
+- Fixed CPU issue
+- Under-the-hood optimization & changes
+
+Changelog:22/12/'23
+- Sync with latest source 
+- Pin SystemUIGoogle 
+- Switched to QCOM audio effects 
+- Added Refresh Rate QS tile
+- Added High touch polling rate button
+- yuki support 500hz sampling rate
+- Various under-the-hood fixes, optimizations and improvements through DT
+
+Changelog:19/12/'23
+- Imported more blobs from from STAR CHINA V14.0.23.9.18.DEV
+- sepolicy denial
+- Updated to latest yuki kernel credit @TeamMEX_XDA for his work on yuki
+
+Changelog:10/12/'23
+- Updated Graphic Adreno blobs from CLO
+- imported more blobs from CLO
+- improved smoothness
+- tweaked idle drain
+- sepolicy: Adress some hal denials
+- Reserved space for GApps
+- Added Thermal Profile
+- Added Xiaomi Parts 
+
+Changelog:04/12/'23
+- Initial A14
+- Re-based & Cleaned & adapted tree For A14
+- Ultra wide video recording Working well in GCam
+- Fixed screen cast issues on A14 including LG tv cast issues
+- Updated kernel and prebuilt modules to Latest VILI EEA V.14.0.14.0.TKDEUXM
+- Fixed Face Lock crash
+- Switched to AIDL Wifi service
+- Added missing blobs 
+- Blobs updated to Latest VILI EEA V.14.0.14.0.TKDEUXM
+- Fingerprint updated to latest EEA
