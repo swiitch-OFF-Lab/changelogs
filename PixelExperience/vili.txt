@@ -1,0 +1,14 @@
+Build type: Userdebug
+Device: Xiaomi Mi 11T Pro (vili)
+maintainer: swiitchOFF
+
+Changelog:29/02/'24
+- Synced to latest PixelExperience source
+- Update adreno blobs from AOSPA
+- Shifted to New upstream kernel 5.4.268
+- lg tv cast And OTG dedection issues already fixed last year on my all of builds
+- Various source side improvements and fixes
+- Added Leica camera Beta 7.0 hotfix
+- Cleanup & Re-Based & Dropped Some stuffs 
+- VILI Vendor Based on VILI EEA V.14.0.14.0.TKDEUXM
+- COMMON Vendor Based on STAR CHINA V14.0.23.9.18.DEV
