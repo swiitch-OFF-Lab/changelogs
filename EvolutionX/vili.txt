@@ -2,6 +2,17 @@ Build type: Userdebug
 Device: Xiaomi Mi 11T Pro (vili)
 maintainer: swiitchOFF
 
+Changelog:16/03/'24
+- Synced to latest EvolutionX source
+- Include Dolby
+- rebased Dolby repo with latest chenages for VILI
+- VILI Vendor blobs updated to VILI EEA V14.0.16.0.TKDEUXM
+- Fingerprint updated to latest EEA
+- merged kernel with paul's repo
+- Update hotword enrollment blobs from MIUI 13
+- tweaked brightness
+- Various source side improvements and fixes
+
 Changelog:28/02/'24
 - Synced to latest EvolutionX source
 - Update adreno blobs from AOSPA
